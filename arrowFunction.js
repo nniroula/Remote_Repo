@@ -9,7 +9,8 @@
 4. Push that local branch to GitHub to create a remote branch
 */
 //1. I created a local repository in my machine called Local_Repo.
-//2. Remote repository called Remote_Repo is created and the following codes are pushed ot it via terminal.
+//2. Remote repository called Remote_Repo is created and the following codes are pushed to it via terminal.
+//3. Local branch called function_Basics is creted, added some file and is pushed to github.
 
 
 const arrowBasics = (a, b) => {
