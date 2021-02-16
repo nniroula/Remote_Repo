@@ -10,7 +10,8 @@
 */
 //1. I created a local repository in my machine called Local_Repo.
 //2. Remote repository called Remote_Repo is created and the following codes are pushed to it via terminal.
-//3. Local branch called function_Basics is creted, added some file and is pushed to github.
+//3. Local branch called function_Basics is creted, added and committed some file 
+//4. The local branch is pushed to github, and now github shows that I have 3 branches- main, master, and fucntion_Basics.
 
 
 const arrowBasics = (a, b) => {
